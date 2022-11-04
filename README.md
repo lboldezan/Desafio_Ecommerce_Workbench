@@ -10,6 +10,7 @@ Aplique o mapeamento para o  cenário:
 * Entrega – Possui status e código de rastreio;
 * Algumas das perguntas que podes fazer para embasar as queries SQL:
 
+**Responda as perguntas**
 * Quantos pedidos foram feitos por cada cliente?
 * Algum vendedor também é fornecedor?
 * Relação de produtos fornecedores e estoques;
